@@ -138,7 +138,7 @@
     "map_settings_description": "Gestiona la configuració del mapa",
     "map_style_description": "URL a un tema del mapa style.json",
     "metadata_extraction_job": "Extreure metadades",
-    "metadata_extraction_job_description": "Extreu l'informació de metadades de cada element, com per exemple el GPS i la resolució",
+    "metadata_extraction_job_description": "Extreu la informació de metadades de cada element, com per exemple el GPS i la resolució",
     "migration_job": "Migració",
     "migration_job_description": "Migra les miniatures d'elements i cares cap a la nova estructura de carpetes",
     "no_paths_added": "Cap camí afegit",
